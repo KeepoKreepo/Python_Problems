@@ -13,5 +13,7 @@ files:
 feedback_link: https://hyperskill.org/learn/step/6020#comment
 status: Solved
 record: -1
+selected_options:
+  - 2
 custom_name: What is a module?
 local_check: false
